@@ -1,4 +1,4 @@
-# PayGauge
+# ExpenseMate
 Expense Tracker application built using React Native with MongoDB, Express and Node JS
 
 ## Base Dependencies
